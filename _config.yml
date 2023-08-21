@@ -58,8 +58,7 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://instagram.fasu10-1.fna.fbcdn.net/v/t51.2885-19/327133499_2375494222617657_4962073974706874572_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fasu10-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=0bUs94wS-lUAX8unRk2&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCxeHCG2rDZaJO-qNXaAL4Vgefauc_5GVka5tytIMeVFw&oe=64E7C4E2&_nc_sid=8b3546"
-#avatar: "images/jonathan_doe.jpg"
+avatar: "images/yo.jpg"
 #avatar:
 
 
@@ -169,7 +168,7 @@ links:
   - email:
       name: Email
       show: true
-      href: alexiscubilla500@gmail.com
+      href: mailto:alexiscubilla500@gmail.com
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
