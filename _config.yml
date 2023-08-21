@@ -97,7 +97,7 @@ links:
       icon: fab fa-vine
   - facebook:
       name: Facebook
-      show: false
+      show: true
       href: https://www.facebook.com/AlecsiCubilla/
       icon: fab fa-facebook
   - vkontakte:
